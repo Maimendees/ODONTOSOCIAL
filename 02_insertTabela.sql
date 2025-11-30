@@ -1,0 +1,3 @@
+INSERT INTO ong(nome,telefone)
+VALUES
+('ODONTOSOCIAL', '1199999-9999');
